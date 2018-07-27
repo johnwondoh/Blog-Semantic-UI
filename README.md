@@ -8,16 +8,16 @@ This blog is consistent with RESTful routing requirements. It presents a homepag
 
 The dependencies used in the backend of this project include:
 
-body-parser
-    ejs
-    express
-    express-sanitizer
-    method-override
+body-parser:
+    ejs,
+    express,
+    express-sanitizer,
+    method-override,
     mongoose
 
 The frameworks used are:
-    Express
-    Semantic UI
+    Express,
+    Semantic UI,
 
 The database used is:
     Mongo DB
