@@ -1,5 +1,3 @@
-Blog – 
-
 This is an implementation of a blog based on the Semantic UI CSS framework. It is not intended to be deployed, although the implementation can be quickly adjusted for deployment if the need arises. It can also be used as a template for implementing Semantic UI based blogs. Its main focus is to demonstrate RESTful routing and the use of an alternative CSS framework to Twitter Bootstrap. 
 
 Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML (see source). Semantic UI is a similar CSS framework to Twitter Bootstrap-the most popular CSS framework.  The intent of Semantic UI is to provide semantically meaningful class names for components. For instance, a button in Semantic UI is written simply and intuitively as ‘button’, whereas it is written as ‘btn’ in Twitter Bootstrap.
